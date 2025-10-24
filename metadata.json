@@ -1,0 +1,5 @@
+{
+  "name": "Preeprep",
+  "description": "An interactive web application that acts as a personal study assistant. Users can enter any topic, and the AI will generate a comprehensive study guide, create practice quizzes, and offer a chat interface for follow-up questions to deepen understanding.",
+  "requestFramePermissions": []
+}
